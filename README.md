@@ -1,4 +1,4 @@
 ## myPython
 
-My sample python scripts
+My sample python scripts for learning
 
